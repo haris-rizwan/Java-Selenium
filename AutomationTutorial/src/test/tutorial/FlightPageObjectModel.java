@@ -5,10 +5,11 @@ import org.junit.Before;
 import org.junit.Test;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
+//import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.firefox.FirefoxDriver;
-import org.openqa.selenium.support.ui.Select;
+//import org.openqa.selenium.firefox.FirefoxDriver;
+//import org.openqa.selenium.support.ui.Select;
+//import org.testng.annotations.BeforeClass;
 import page.classes.FlightPage;
 import utlilities.waitTypes;
 
@@ -32,7 +33,6 @@ public class FlightPageObjectModel {
 
     }
 
-//
 //    @Test
 //    public void test()throws InterruptedException{
 //        FlightPage.flyingFrom(driver).sendKeys("Karachi");

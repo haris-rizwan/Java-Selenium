@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="parameter suite">
+    <test name="Application Test">
+        <parameter name="browser" value="firefox"></parameter>
+        <parameter name="system" value="mac"></parameter>
+        <classes>
+            <class name="testClasses.TestNG_parameters"></class>
+
+        </classes>
+    </test>
+</suite>
