@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [login test suite]" guice-stage="DEVELOPMENT">
+  <test name="first selenium login test with id(failed)">
+    <classes>
+      <class name="extendReports.seleniumLoginTutorialScreenshot">
+        <methods>
+          <include name="classSetup"/>
+          <include name="tearDown"/>
+          <include name="testLogin"/>
+        </methods>
+      </class> <!-- extendReports.seleniumLoginTutorialScreenshot -->
+    </classes>
+  </test> <!-- first selenium login test with id(failed) -->
+</suite> <!-- Failed suite [login test suite] -->

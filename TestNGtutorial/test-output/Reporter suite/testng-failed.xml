@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Reporter suite]" guice-stage="DEVELOPMENT">
+  <test name="Application Reporter log testing Test(failed)">
+    <classes>
+      <class name="testClasses.TestNG_reportersAndLogs">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="test2"/>
+          <include name="test3"/>
+          <include name="afterMethod"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- testClasses.TestNG_reportersAndLogs -->
+    </classes>
+  </test> <!-- Application Reporter log testing Test(failed) -->
+</suite> <!-- Failed suite [Reporter suite] -->

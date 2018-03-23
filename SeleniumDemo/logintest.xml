@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="login test suite">
+    <test name="first selenium login test with id">
+        <classes>
+            <class name="extendReports.seleniumLoginTutorialScreenshot"></class>
+            <class name="extendReports.seleniumLoginTutorial"></class>
+        </classes>
+
+    </test>
+</suite>
