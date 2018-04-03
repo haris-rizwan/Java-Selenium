@@ -51,8 +51,6 @@ public class FlightPageObjectModel {
         FlightPage.enterDestinationCity(driver,"Karachi");
         FlightPage.departureDate(driver,"05","14","2018");
         FlightPage.arrivalDate(driver,"06","03","2018");
-        FlightPage.selectAdults(driver,"3");
-        FlightPage.clickadvanceOptions(driver);
         Thread.sleep(2000);
 
     }

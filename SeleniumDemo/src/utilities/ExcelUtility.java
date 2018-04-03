@@ -61,10 +61,9 @@ public class ExcelUtility {
             testData = new String[endRow-startRow + 1][endCol-startCol+1];
 
 
-            for (int i=startRow;i<endRow+1;i++){
-                for (int j=startCol;i<=endCol+1,j++){
-                    testData[i-startRow][i-startCol]= ExcelSheet.getRow(i).getCell(j).getStringCellValue();
-                }
+            for (int i=startRow; i<endRow+1; i++){
+                for (int j=startCol;j<endCol+1;j++)
+                    testData[i - startRow][j - startCol] = ExcelSheet.getRow(i).getCell(j).getStringCellValue();
             }
         }catch (Exception e){
             e.printStackTrace();
