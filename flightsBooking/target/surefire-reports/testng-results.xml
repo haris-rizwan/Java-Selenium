@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="3" total="6" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2018-04-17T17:39:51Z" name="Regression suite" finished-at="2018-04-17T17:39:51Z" duration-ms="46">
+    <groups>
+      <group name="cars">
+        <method signature="TestNG_grouping.testAudii()[pri:0, instance:com.expedia.TestNG_grouping@1b7cc17c]" name="testAudii" class="com.expedia.TestNG_grouping"/>
+        <method signature="TestNG_grouping.testBmw()[pri:0, instance:com.expedia.TestNG_grouping@1b7cc17c]" name="testBmw" class="com.expedia.TestNG_grouping"/>
+        <method signature="TestNG_grouping.testMercedes()[pri:0, instance:com.expedia.TestNG_grouping@1b7cc17c]" name="testMercedes" class="com.expedia.TestNG_grouping"/>
+      </group> <!-- cars -->
+    </groups>
+    <test started-at="2018-04-17T17:39:51Z" name="Grouping Demo" finished-at="2018-04-17T17:39:51Z" duration-ms="46">
+      <class name="com.expedia.TestNG_grouping">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.expedia.TestNG_grouping@1b7cc17c]" started-at="2018-04-17T13:39:51Z" name="setUp" finished-at="2018-04-17T13:39:51Z" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.expedia.TestNG_grouping@1b7cc17c]" started-at="2018-04-17T13:39:51Z" name="beforeMethod" finished-at="2018-04-17T13:39:51Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testAudii()[pri:0, instance:com.expedia.TestNG_grouping@1b7cc17c]" started-at="2018-04-17T13:39:51Z" name="testAudii" finished-at="2018-04-17T13:39:51Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAudii -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.expedia.TestNG_grouping@1b7cc17c]" started-at="2018-04-17T13:39:51Z" name="afterMethod" finished-at="2018-04-17T13:39:51Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.expedia.TestNG_grouping@1b7cc17c]" started-at="2018-04-17T13:39:51Z" name="beforeMethod" finished-at="2018-04-17T13:39:51Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testBmw()[pri:0, instance:com.expedia.TestNG_grouping@1b7cc17c]" started-at="2018-04-17T13:39:51Z" name="testBmw" finished-at="2018-04-17T13:39:51Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBmw -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.expedia.TestNG_grouping@1b7cc17c]" started-at="2018-04-17T13:39:51Z" name="afterMethod" finished-at="2018-04-17T13:39:51Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="testMercedes()[pri:0, instance:com.expedia.TestNG_grouping@1b7cc17c]" started-at="2018-04-17T13:39:51Z" name="testMercedes" finished-at="2018-04-17T13:39:51Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMercedes -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.expedia.TestNG_grouping@1b7cc17c]" started-at="2018-04-17T13:39:51Z" name="beforeMethod" finished-at="2018-04-17T13:39:51Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.expedia.TestNG_grouping@1b7cc17c]" started-at="2018-04-17T13:39:51Z" name="afterMethod" finished-at="2018-04-17T13:39:51Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="cleanUp()[pri:0, instance:com.expedia.TestNG_grouping@1b7cc17c]" started-at="2018-04-17T13:39:51Z" name="cleanUp" finished-at="2018-04-17T13:39:51Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+      </class> <!-- com.expedia.TestNG_grouping -->
+    </test> <!-- Grouping Demo -->
+  </suite> <!-- Regression suite -->
+</testng-results>
