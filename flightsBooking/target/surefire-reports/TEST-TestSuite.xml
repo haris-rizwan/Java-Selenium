@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="5.586" tests="3" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="21.336" tests="4" errors="0" skipped="0" failures="0">
   <properties>
     <property name="gopherProxySet" value="false"/>
     <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
@@ -17,7 +17,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="CA"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk-9.jdk/Contents/Home/lib"/>
-    <property name="sun.java.command" value="/Users/harisrizwan/IntelliJ WorkSpace/flightsBooking/target/surefire/surefirebooter4831551508259905593.jar /Users/harisrizwan/IntelliJ WorkSpace/flightsBooking/target/surefire 2018-04-17T13-39-50_273-jvmRun1 surefire11022698574508209692tmp surefire_013982918028379003131tmp"/>
+    <property name="sun.java.command" value="/Users/harisrizwan/IntelliJ WorkSpace/flightsBooking/target/surefire/surefirebooter14648617487759344850.jar /Users/harisrizwan/IntelliJ WorkSpace/flightsBooking/target/surefire 2018-04-19T14-03-08_157-jvmRun1 surefire9689465524488744907tmp surefire_01505388654742377929tmp"/>
     <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/Users/harisrizwan/IntelliJ WorkSpace/flightsBooking/target/test-classes:/Users/harisrizwan/IntelliJ WorkSpace/flightsBooking/target/classes:/Users/harisrizwan/.m2/repository/org/seleniumhq/selenium/selenium-java/3.9.1/selenium-java-3.9.1.jar:/Users/harisrizwan/.m2/repository/org/seleniumhq/selenium/selenium-api/3.9.1/selenium-api-3.9.1.jar:/Users/harisrizwan/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/3.9.1/selenium-chrome-driver-3.9.1.jar:/Users/harisrizwan/.m2/repository/org/seleniumhq/selenium/selenium-edge-driver/3.9.1/selenium-edge-driver-3.9.1.jar:/Users/harisrizwan/.m2/repository/org/seleniumhq/selenium/selenium-firefox-driver/3.9.1/selenium-firefox-driver-3.9.1.jar:/Users/harisrizwan/.m2/repository/org/seleniumhq/selenium/selenium-ie-driver/3.9.1/selenium-ie-driver-3.9.1.jar:/Users/harisrizwan/.m2/repository/org/seleniumhq/selenium/selenium-opera-driver/3.9.1/selenium-opera-driver-3.9.1.jar:/Users/harisrizwan/.m2/repository/org/seleniumhq/selenium/selenium-remote-driver/3.9.1/selenium-remote-driver-3.9.1.jar:/Users/harisrizwan/.m2/repository/org/seleniumhq/selenium/selenium-safari-driver/3.9.1/selenium-safari-driver-3.9.1.jar:/Users/harisrizwan/.m2/repository/org/seleniumhq/selenium/selenium-support/3.9.1/selenium-support-3.9.1.jar:/Users/harisrizwan/.m2/repository/net/bytebuddy/byte-buddy/1.7.9/byte-buddy-1.7.9.jar:/Users/harisrizwan/.m2/repository/org/apache/commons/commons-exec/1.3/commons-exec-1.3.jar:/Users/harisrizwan/.m2/repository/commons-codec/commons-codec/1.10/commons-codec-1.10.jar:/Users/harisrizwan/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/Users/harisrizwan/.m2/repository/com/google/code/gson/gson/2.8.2/gson-2.8.2.jar:/Users/harisrizwan/.m2/repository/com/google/guava/guava/23.6-jre/guava-23.6-jre.jar:/Users/harisrizwan/.m2/repository/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.jar:/Users/harisrizwan/.m2/repository/org/checkerframework/checker-compat-qual/2.0.0/checker-compat-qual-2.0.0.jar:/Users/harisrizwan/.m2/repository/com/google/errorprone/error_prone_annotations/2.1.3/error_prone_annotations-2.1.3.jar:/Users/harisrizwan/.m2/repository/com/google/j2objc/j2objc-annotations/1.1/j2objc-annotations-1.1.jar:/Users/harisrizwan/.m2/repository/org/codehaus/mojo/animal-sniffer-annotations/1.14/animal-sniffer-annotations-1.14.jar:/Users/harisrizwan/.m2/repository/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3.jar:/Users/harisrizwan/.m2/repository/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.jar:/Users/harisrizwan/.m2/repository/com/squareup/okhttp3/okhttp/3.9.1/okhttp-3.9.1.jar:/Users/harisrizwan/.m2/repository/com/squareup/okio/okio/1.13.0/okio-1.13.0.jar:/Users/harisrizwan/.m2/repository/org/testng/testng/6.11/testng-6.11.jar:/Users/harisrizwan/.m2/repository/com/beust/jcommander/1.64/jcommander-1.64.jar:/Users/harisrizwan/.m2/repository/org/yaml/snakeyaml/1.17/snakeyaml-1.17.jar:/Users/harisrizwan/.m2/repository/org/apache/logging/log4j/log4j-api/2.10.0/log4j-api-2.10.0.jar:/Users/harisrizwan/.m2/repository/org/apache/maven/surefire/surefire-testng-utils/2.21.0/surefire-testng-utils-2.21.0.jar:/Users/harisrizwan/.m2/repository/org/apache/maven/surefire/surefire-grouper/2.21.0/surefire-grouper-2.21.0.jar:"/>
@@ -33,7 +33,7 @@
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="/Users/harisrizwan/IntelliJ WorkSpace/flightsBooking/target/surefire/surefirebooter4831551508259905593.jar"/>
+    <property name="surefire.real.class.path" value="/Users/harisrizwan/IntelliJ WorkSpace/flightsBooking/target/surefire/surefirebooter14648617487759344850.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.runtime.version" value="9+181"/>
@@ -60,7 +60,8 @@
     <property name="java.class.version" value="53.0"/>
     <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
   </properties>
-  <testcase name="testAudii" classname="com.expedia.TestNG_grouping" time="0.002"/>
-  <testcase name="testBmw" classname="com.expedia.TestNG_grouping" time="0.001"/>
+  <testcase name="test" classname="com.expedia.FlightPageTest" time="3.294"/>
+  <testcase name="testAudii" classname="com.expedia.TestNG_grouping" time="0"/>
+  <testcase name="testBmw" classname="com.expedia.TestNG_grouping" time="0"/>
   <testcase name="testMercedes" classname="com.expedia.TestNG_grouping" time="0.001"/>
 </testsuite>

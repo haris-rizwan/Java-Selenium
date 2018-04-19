@@ -10,10 +10,13 @@ import utilities.waitTypes;
 
 
 
+
 public class FlightPageTest {
     WebDriver driver;
     String baseUrl;
     waitTypes WT;
+
+
 
 
     @BeforeClass
