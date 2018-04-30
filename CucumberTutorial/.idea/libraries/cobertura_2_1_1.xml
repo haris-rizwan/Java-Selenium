@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="cobertura-2.1.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/SeleniumEnv/cucumber-jars/cobertura-2.1.1.jar!/" />
+      <root url="jar://$USER_HOME$/SeleniumEnv/cucumber-jars/cucumber-core-1.2.5.jar!/" />
+      <root url="jar://$USER_HOME$/SeleniumEnv/cucumber-jars/cucumber-java-1.2.5.jar!/" />
+      <root url="jar://$USER_HOME$/SeleniumEnv/cucumber-jars/cucumber-junit-1.2.5.jar!/" />
+      <root url="jar://$USER_HOME$/SeleniumEnv/cucumber-jars/cucumber-jvm-deps-1.0.5.jar!/" />
+      <root url="jar://$USER_HOME$/SeleniumEnv/cucumber-jars/cucumber-reporting-3.16.0.jar!/" />
+      <root url="jar://$USER_HOME$/SeleniumEnv/cucumber-jars/gherkin-2.12.2.jar!/" />
+      <root url="jar://$USER_HOME$/SeleniumEnv/cucumber-jars/junit-4.12.jar!/" />
+      <root url="jar://$USER_HOME$/SeleniumEnv/cucumber-jars/mockito-all-1.9.1-20110911.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/SeleniumEnv/cucumber-jars/mockito-all-1.9.1-20110911.jar!/" />
+    </SOURCES>
+  </library>
+</component>
