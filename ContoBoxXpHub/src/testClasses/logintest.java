@@ -1,7 +1,6 @@
 package testClasses;
 
-import PageClasses.ElementsPageFactory;
-import PageClasses.SignInPageFactory;
+import pageClasses.SignInPageFactory;
 import Utilities.WebdriverFactory;
 import org.openqa.selenium.WebDriver;
 import org.testng.annotations.AfterClass;
