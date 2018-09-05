@@ -1,0 +1,5 @@
+2018-08-28 14:01:00,723 main ERROR LandingPageTest test_logoPresent - Logo not present
+2018-08-28 14:01:04,007 main ERROR LandingPageTest test_clickRequestBtn - Request button click failure 
+2018-08-28 14:01:07,237 main INFO  LandingPageTest test_clickLogo - Logo clicked and redirecting to main landing page
+2018-08-28 14:01:09,089 main INFO  LandingPageTest test_verifyHeadingText - Heading text verified
+2018-08-28 14:01:10,880 main ERROR LandingPageTest test_verifyRequestBtnText - Request Button text not verified 

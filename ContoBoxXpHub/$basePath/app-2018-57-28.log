@@ -1,0 +1,5 @@
+2018-08-28 12:57:16,451 main INFO  LandingPageTest setUp - driver started
+2018-08-28 12:57:18,268 main INFO  LandingPageTest test_headingPresent - Heading present
+2018-08-28 12:57:21,314 main INFO  LandingPageTest test_clickLogo - Logo clicked and redirecting to main landing page
+2018-08-28 12:57:23,257 main INFO  LandingPageTest test_logoPresent - Logo is present
+2018-08-28 12:57:25,166 main INFO  LandingPageTest test_verifyHeadingText - Heading text verified

@@ -1,0 +1,2 @@
+2018-08-28 12:26:01,126 main INFO  LandingPageTest setUp - driver started
+2018-08-28 12:26:02,828 main INFO  LandingPageTest test_logoPresent - Logo is present

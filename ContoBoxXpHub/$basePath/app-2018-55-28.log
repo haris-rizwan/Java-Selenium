@@ -1,0 +1,7 @@
+2018-08-28 13:55:00,041 main INFO  LandingPageTest test_checkSignInBtn - Sign In button is present
+2018-08-28 13:55:01,834 main INFO  LandingPageTest test_headingPresent - Heading present
+2018-08-28 13:55:03,639 main INFO  LandingPageTest test_logoPresent - Logo is present
+2018-08-28 13:55:06,447 main ERROR LandingPageTest test_clickRequestBtn - Request button click failure 
+2018-08-28 13:55:09,627 main INFO  LandingPageTest test_clickLogo - Logo clicked and redirecting to main landing page
+2018-08-28 13:55:11,452 main INFO  LandingPageTest test_verifyHeadingText - Heading text verified
+2018-08-28 13:55:13,496 main ERROR LandingPageTest test_verifyRequestBtnText - Request Button text not verified 

@@ -1,5 +1,15 @@
 package exam;
 
+import java.time.LocalDate;
+import java.time.LocalDateTime;
+import java.time.LocalTime;
+import java.time.Period;
+import java.time.format.DateTimeFormatter;
+import java.time.format.FormatStyle;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+
 public class StringExamples {
 
 
@@ -56,12 +66,29 @@ public class StringExamples {
 
     public static void main(String [] args) {
 
-        StringExamples test = new StringExamples();
+        LocalDateTime date = LocalDateTime.of(2017,11,22,11,22,33);
+        Period p = Period.ofWeeks(4);
+        date = date.plus(p);
 
-        test.sBuilderExample();
-        test.sBuilderExample2();
-        test.MethodChanging();
-        test.indexFinding();
+        System.out.println(date);
+
+
+}
+
+
+    public static void animaltoy(LocalDate startDate, LocalDate endDate,Period period){
+
+
+    LocalDate upto = startDate;
+
+    while (upto.isBefore(endDate)){
+        System.out.println("new toy upto " + upto);
+        upto = upto.plus(period);
     }
 
+
+
+
+
+    }
 }

@@ -1,0 +1,2 @@
+2018-08-28 12:24:58,501 main INFO  LandingPageTest setUp - driver started
+2018-08-28 12:24:58,852 main ERROR LandingPageTest test_logoPresent - Logo not present

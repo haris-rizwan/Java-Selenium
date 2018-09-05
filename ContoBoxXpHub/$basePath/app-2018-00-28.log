@@ -1,0 +1,8 @@
+2018-08-28 14:00:45,366 main INFO  LandingPageTest setUp - driver started
+2018-08-28 14:00:47,058 main INFO  LandingPageTest test_checkEmailField - Email field is present
+2018-08-28 14:00:48,796 main ERROR LandingPageTest test_checkForgotPasswordField - Forgot password field is not present
+2018-08-28 14:00:51,024 main ERROR LandingPageTest test_checkPasswordField - Field is not present
+2018-08-28 14:00:52,960 main ERROR LandingPageTest test_checkRememberMeCheckBox - Remeber me is not present
+2018-08-28 14:00:54,883 main ERROR LandingPageTest test_checkRequestDemoBtn - Request button is not present
+2018-08-28 14:00:56,856 main ERROR LandingPageTest test_checkSignInBtn - Sign In button not present
+2018-08-28 14:00:58,785 main ERROR LandingPageTest test_headingPresent - heading not present

@@ -1,0 +1,7 @@
+2018-08-28 12:46:02,440 main INFO  LandingPageTest classSetUp - driver satrted
+2018-08-28 12:46:02,835 main INFO  LandingPageTest test_CheckLoginBtn - Login Button available
+2018-08-28 12:46:03,119 main INFO  LandingPageTest test_CheckRequestBtn - Request button is present 
+2018-08-28 12:46:03,475 main INFO  LandingPageTest test_VerifyLoginText - login Text verified
+2018-08-28 12:46:03,839 main INFO  LandingPageTest test_VerifyRequestText - Request button text verified
+2018-08-28 12:46:05,642 main INFO  LandingPageTest test_clickLoginBtn - Login button clicked 
+2018-08-28 12:46:07,636 main INFO  LandingPageTest test_clickRequestBtn - Request button clicked 

@@ -1,0 +1,6 @@
+2018-08-28 14:07:41,094 main INFO  LandingPageTest classSetUp - driver satrted
+2018-08-28 14:07:42,480 main ERROR LandingPageTest test_CheckLoginBtn - Login Button is not available
+2018-08-28 14:07:42,795 main INFO  LandingPageTest test_CheckRequestBtn - Request button is present 
+2018-08-28 14:07:43,583 main ERROR LandingPageTest test_VerifyLoginText - The login button text not verified
+2018-08-28 14:07:43,873 main INFO  LandingPageTest test_VerifyRequestText - Request button text verified
+2018-08-28 14:07:47,430 main INFO  LandingPageTest test_clickRequestBtn - Request button clicked 

@@ -1,0 +1,4 @@
+2018-08-28 14:04:10,419 main INFO  LandingPageTest setUp - driver started
+2018-08-28 14:04:12,119 main ERROR LandingPageTest test_checkRequestDemoBtn - Request button is not present
+2018-08-28 14:04:15,592 main ERROR LandingPageTest test_clickRequestBtn - Request button click failure 
+2018-08-28 14:04:17,701 main ERROR LandingPageTest test_verifyRequestBtnText - Request Button text not verified 
