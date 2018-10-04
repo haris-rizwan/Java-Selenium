@@ -1,0 +1,11 @@
+2018-09-05 10:17:38,074 main INFO  LandingPageTest setUp - driver started
+2018-09-05 10:17:39,740 main INFO  LandingPageTest test_checkEmailField - Email field is present
+2018-09-05 10:17:41,700 main INFO  LandingPageTest test_checkForgotPasswordField - Forgot password field is present
+2018-09-05 10:17:43,607 main INFO  LandingPageTest test_checkPasswordField - Password field is present
+2018-09-05 10:17:45,496 main INFO  LandingPageTest test_checkRememberMeCheckBox - Remember me is present
+2018-09-05 10:17:47,345 main INFO  LandingPageTest test_checkRequestDemoBtn - Request demo button is present
+2018-09-05 10:17:49,176 main INFO  LandingPageTest test_checkSignInBtn - Sign In button is present
+2018-09-05 10:17:51,054 main INFO  LandingPageTest test_headingPresent - Heading present
+2018-09-05 10:17:52,921 main INFO  LandingPageTest test_logoPresent - Logo is present
+2018-09-05 10:17:55,826 main INFO  LandingPageTest test_clickRequestBtn - Request button clicked and redirects to request page
+2018-09-05 10:17:58,769 main INFO  LandingPageTest test_clickLogo - Logo clicked and redirecting to main landing page

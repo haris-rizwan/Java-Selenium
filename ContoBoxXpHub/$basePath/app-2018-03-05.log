@@ -1,0 +1,10 @@
+2018-09-05 13:03:30,065 main INFO  RequestDemoPageTest setUp - Driver started
+2018-09-05 13:03:30,128 main INFO  RequestDemoPageTest test_CompanyFieldPresent - Company Field is  Present
+2018-09-05 13:03:30,158 main INFO  RequestDemoPageTest test_EmailFieldPresent - Email Field is  Present
+2018-09-05 13:03:30,182 main INFO  RequestDemoPageTest test_HeadingPresent - Heading Present
+2018-09-05 13:03:30,212 main INFO  RequestDemoPageTest test_HearAboutUSFieldPresent - Hear About Field is  Present
+2018-09-05 13:03:30,237 main INFO  RequestDemoPageTest test_LogoPresent - Logo Present
+2018-09-05 13:03:30,260 main INFO  RequestDemoPageTest test_MessageFieldPresent - Message Field is  Present
+2018-09-05 13:03:30,285 main INFO  RequestDemoPageTest test_NameFieldPresent - Name Field is  Present
+2018-09-05 13:03:30,320 main INFO  RequestDemoPageTest test_SendRequestBtnPresent - Send Request btn  is  Present
+2018-09-05 13:03:30,386 main INFO  RequestDemoPageTest test_SignInBtnPresent - SignIn Button is  Present

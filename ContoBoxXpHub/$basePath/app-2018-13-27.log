@@ -1,0 +1,4 @@
+2018-09-27 11:13:01,143 main INFO  LogInPageTest test_checkSignInBtn - Sign In button is present
+2018-09-27 11:13:03,052 main INFO  LogInPageTest test_headingPresent - Heading present
+2018-09-27 11:13:04,911 main ERROR LogInPageTest test_logoPresent - Logo not present
+2018-09-27 11:13:07,232 main INFO  LogInPageTest test_verifyHeadingText - Heading text verified

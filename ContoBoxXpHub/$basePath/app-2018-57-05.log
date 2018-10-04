@@ -1,0 +1,6 @@
+2018-09-05 11:57:49,104 main INFO  LandingPageTest test_checkEmailField - Email field is present
+2018-09-05 11:57:50,995 main INFO  LandingPageTest test_checkForgotPasswordField - Forgot password field is present
+2018-09-05 11:57:52,848 main INFO  LandingPageTest test_checkPasswordField - Password field is present
+2018-09-05 11:57:54,688 main INFO  LandingPageTest test_checkRememberMeCheckBox - Remember me is present
+2018-09-05 11:57:56,537 main INFO  LandingPageTest test_checkRequestDemoBtn - Request demo button is present
+2018-09-05 11:57:58,390 main INFO  LandingPageTest test_checkSignInBtn - Sign In button is present

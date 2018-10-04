@@ -24,7 +24,7 @@ public class LogInPageTest {
     private Date date = new Date();
     private String fileName = dateFormat.format(date);
 
-    private static final Logger log = LogManager.getLogger(LandingPageTest.class.getName());
+    private static final Logger log = LogManager.getLogger(LogInPageTest.class.getName());
 
 
     @BeforeClass

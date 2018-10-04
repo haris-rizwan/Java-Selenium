@@ -1,7 +1,13 @@
-2018-08-28 13:55:00,041 main INFO  LandingPageTest test_checkSignInBtn - Sign In button is present
-2018-08-28 13:55:01,834 main INFO  LandingPageTest test_headingPresent - Heading present
-2018-08-28 13:55:03,639 main INFO  LandingPageTest test_logoPresent - Logo is present
-2018-08-28 13:55:06,447 main ERROR LandingPageTest test_clickRequestBtn - Request button click failure 
-2018-08-28 13:55:09,627 main INFO  LandingPageTest test_clickLogo - Logo clicked and redirecting to main landing page
-2018-08-28 13:55:11,452 main INFO  LandingPageTest test_verifyHeadingText - Heading text verified
-2018-08-28 13:55:13,496 main ERROR LandingPageTest test_verifyRequestBtnText - Request Button text not verified 
+2018-08-28 15:55:01,292 main INFO  LandingPageTest setUp - driver started
+2018-08-28 15:55:03,067 main INFO  LandingPageTest test_checkEmailField - Email field is present
+2018-08-28 15:55:05,013 main INFO  LandingPageTest test_checkForgotPasswordField - Forgot password field is present
+2018-08-28 15:55:06,860 main INFO  LandingPageTest test_checkPasswordField - Password field is present
+2018-08-28 15:55:08,731 main INFO  LandingPageTest test_checkRememberMeCheckBox - Remember me is present
+2018-08-28 15:55:10,588 main INFO  LandingPageTest test_checkRequestDemoBtn - Request demo button is present
+2018-08-28 15:55:12,387 main INFO  LandingPageTest test_checkSignInBtn - Sign In button is present
+2018-08-28 15:55:14,233 main INFO  LandingPageTest test_headingPresent - Heading present
+2018-08-28 15:55:16,060 main INFO  LandingPageTest test_logoPresent - Logo is present
+2018-08-28 15:55:18,958 main INFO  LandingPageTest test_clickRequestBtn - Request button clicked and redirects to request page
+2018-08-28 15:55:21,848 main INFO  LandingPageTest test_clickLogo - Logo clicked and redirecting to main landing page
+2018-08-28 15:55:23,688 main INFO  LandingPageTest test_verifyHeadingText - Heading text verified
+2018-08-28 15:55:25,515 main INFO  LandingPageTest test_verifyRequestBtnText - Request Button text verified

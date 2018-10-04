@@ -1,0 +1,15 @@
+2018-09-27 11:14:15,807 main INFO  LogInPageTest setUp - driver started
+2018-09-27 11:14:17,572 main INFO  LogInPageTest test_checkEmailField - Email field is present
+2018-09-27 11:14:19,656 main INFO  LogInPageTest test_checkForgotPasswordField - Forgot password field is present
+2018-09-27 11:14:21,529 main INFO  LogInPageTest test_checkPasswordField - Password field is present
+2018-09-27 11:14:23,403 main INFO  LogInPageTest test_checkRememberMeCheckBox - Remember me is present
+2018-09-27 11:14:25,416 main ERROR LogInPageTest test_checkRequestDemoBtn - Request button is not present
+2018-09-27 11:14:27,771 main INFO  LogInPageTest test_checkSignInBtn - Sign In button is present
+2018-09-27 11:14:29,617 main INFO  LogInPageTest test_headingPresent - Heading present
+2018-09-27 11:14:31,535 main ERROR LogInPageTest test_logoPresent - Logo not present
+2018-09-27 11:14:33,841 main INFO  LogInPageTest test_verifyHeadingText - Heading text verified
+2018-09-27 11:14:57,406 main INFO  LandingPageTest classSetUp - driver satrted
+2018-09-27 11:14:58,084 main INFO  LandingPageTest test_CheckLoginBtn - Login Button available
+2018-09-27 11:14:58,370 main INFO  LandingPageTest test_CheckRequestBtn - Request button is present 
+2018-09-27 11:14:58,741 main INFO  LandingPageTest test_VerifyLoginText - login Text verified
+2018-09-27 11:14:59,045 main INFO  LandingPageTest test_VerifyRequestText - Request button text verified
